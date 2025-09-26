@@ -1,0 +1,5 @@
+# Render redirects file for client-side routing (SPA)
+# This ensures all routes are served by index.html so React Router can handle them
+
+# Handle all routes by serving index.html (SPA fallback)
+/*    /index.html   200
